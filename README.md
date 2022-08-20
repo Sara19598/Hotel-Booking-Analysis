@@ -72,7 +72,7 @@ Missingno :-Missingno is an excellent and simple to use Python library that prov
 
 
 
-## 3] Price of a hotel room per night-
+## 2] Price of a hotel room per night-
 ![newplot (5)](https://user-images.githubusercontent.com/95495685/185741348-0890fdb9-3194-4d8f-a583-8bf05c9a1ee1.png)
 
 
@@ -85,21 +85,7 @@ Missingno :-Missingno is an excellent and simple to use Python library that prov
 
 
 
-
-
-
-
-## 4] Number of special requests received from customers-
-![download (2)](https://user-images.githubusercontent.com/95495685/185741367-fa5b446b-68fc-492f-b45c-122b60e8327b.png)
-
-
-
-
-
-
-
-
-## 5] Hotel Bookings from different countries-
+## 3] Hotel Bookings from different countries-
 ![newplot (6)](https://user-images.githubusercontent.com/95495685/185741638-96d33019-c806-4661-80b8-5431fe8a4a03.png)
 
 
