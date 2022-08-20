@@ -69,24 +69,6 @@ Missingno :-Missingno is an excellent and simple to use Python library that prov
 
 
 
-## 2] Best time to book a hotel room in a year-
-![download (1)](https://user-images.githubusercontent.com/95495685/185741306-b3d50726-1514-439b-9f54-4be201c8154f.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
